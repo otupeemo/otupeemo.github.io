@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otupeemo.github.io/sitemap_index.otupeemo
